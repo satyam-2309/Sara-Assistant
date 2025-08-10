@@ -1,19 +1,5 @@
-# Ignore environment files (API keys)
-.env
-
-# Ignore Python cache
 __pycache__/
 *.pyc
-
-# Ignore temporary audio file
+.env
 temp.mp3
-
-# Ignore virtual environment folders
 venv/
-env/
-
-# Ignore OS hidden files
-.DS_Store
-
-# Ignore build/package metadata
-*.egg-info/
